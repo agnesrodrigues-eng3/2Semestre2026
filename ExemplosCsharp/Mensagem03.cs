@@ -8,7 +8,7 @@ using System.Text;
 namespace ExemplosCsharp
 {
 
-    //Cração de calsses
+    //Criação de classes
     internal class Mensagem03
     {
         //Criação do metodo Main
@@ -16,9 +16,9 @@ namespace ExemplosCsharp
         {//Metodo/mine função
             Console.WriteLine("Sempre haverá tempo para um recomeço.");
         }
-          //Main e o metodo principal
+          //Main e o método principal
     }
 }
 
 //Class: são um conjunto de objetos/ Toda vez que trabalho com orientação a objetos, fica mais facil de organizar e vizualizar.
-//Objeto:Conjunto de característica especifícas
+//Objeto:Conjunto de característica especifícas.

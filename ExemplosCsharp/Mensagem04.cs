@@ -8,7 +8,7 @@ using System.Text;
 namespace ExemplosCsharp
 {
 
-    //Cração de calsses
+    //Criação de classes
     internal class Mensagem04
     {
         public static void Main(string[] args)
@@ -16,9 +16,9 @@ namespace ExemplosCsharp
             String nome = "Jailson";
             Console.WriteLine("Aprenda a identificar os momentos felizes dentro do caos da sua vida. By "  +nome);
         }//Concatenação: trazendo os dados do texto mais a variavél.
-          //Main e o metodo principal
+          //Main e o método principal
     }
 }
 
 //Class: são um conjunto de objetos/ Toda vez que trabalho com orientação a objetos, fica mais facil de organizar e vizualizar.
-//Objeto:Conjunto de característica especifícas
+//Objeto:Conjunto de característica especifícas.

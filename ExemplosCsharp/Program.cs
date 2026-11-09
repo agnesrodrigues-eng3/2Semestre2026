@@ -2,7 +2,7 @@
 using System;
 
 
-Exercicio01.Main(args);
+Mensagem03.Main(args);
 
 //No program.cs é necessario chamar a clase que eu desejo mostrar, utilizando o .Main que é o metodo principal que desejo  
 //mostrar, passando os argumentos dentro dos parametros, nomeados de (args).

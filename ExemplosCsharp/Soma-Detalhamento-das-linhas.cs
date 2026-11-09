@@ -7,11 +7,11 @@ using System.Numerics;
 using System.Text;//Fornesce classes para a manipulação avançada de textos e códificações de caracteres  
 
 
-//namespace: Cria pacotes lógicos para organizar o código e evitar conflitos entre casses com o mesmo nome.
+//namespace: Cria pacotes lógicos para organizar o código e evitar conflitos entre classes com o mesmo nome.
 namespace ExemplosCsharp
 {
 
-    // Cração de calsses
+    //Criação de classes
     // internal: Modificador de acesso que permite que esta classe seja vista apenas dentro deste projeto.
     // class: Define o molde (estrutura) que agrupa dados e comportamentos para criar objetos.
     internal class SomaDetalhada
@@ -42,7 +42,7 @@ namespace ExemplosCsharp
         }
     }
 }
-//Console.WriteLine(); é como o visulag, ele exibe o resultado e pula uma linha
-//Console.Write(); ele não pula uma linha ao exibir o resultado na tela
+//Console.WriteLine(); é como o visulag, ele exibe o resultado e pula uma linha.
+//Console.Write(); ele não pula uma linha ao exibir o resultado na tela.
 //Class: são um conjunto de objetos/ Toda vez que trabalho com orientação a objetos, fica mais facil de organizar e vizualizar.
-//Objeto:Conjunto de característica especifícas
+//Objeto:Conjunto de característica especifícas.

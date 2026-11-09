@@ -7,11 +7,10 @@ using System.Numerics;
 using System.Text;
 
 
-//namespace: Cria pacotes lógicos para organizar o código e evitar conflitos entre casses com o mesmo nome.
+//namespace: Cria pacotes lógicos para organizar o código e evitar conflitos entre classes com o mesmo nome.
 namespace ExemplosCsharp
 {
-
-    // Cração de calsses
+    //Criação de classes
     internal class Soma
     {
         //Criação do método Main
